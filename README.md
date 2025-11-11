@@ -1,0 +1,1 @@
+# SessionShell-AI-Enhanced-Terminal-with-Auto-Timeout-Management
